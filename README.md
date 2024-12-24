@@ -6,6 +6,6 @@ Mindspore：
 4.	Circuit layer: Number of sides (e=10-40),Circuit layer (p=2-16). With the increase of edge e, it changes in wave shape; However, the effect is not obvious with the increase of line level p.
 5.	Output state probability distribution: Comparison between the Noise Content and the Ideal Circuit in Solving the Maximum Cut in a 5-node Fully Connected Graph. In the case of noise, the probability of suboptimal solution increases and the probability of optimal solution decreases
 Google(Appendix):
-1.	Evolution effect of target loss function: Ideal, noisy channel (full connection diagram n=6). $A{{R}_{noise}}\le A{{R}_{ideal}}$. 
+1.	Evolution effect of target loss function: Ideal, noisy channel (full connection diagram n=6). $A{{R}_{noise}}\le A{{R}_{ideal}}$
 2.	Angle evolution: Correlation between angle evolution and initial parameter selection.
 3.	In the case of noise, the probability of suboptimal solution increases and the probability of optimal solution decreases
